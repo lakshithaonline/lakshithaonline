@@ -41,8 +41,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshithaonline&" alt="lakshithaonline" /></p
                                                                                                                                
-<h3 align="left">Support:</h3><br>
-
+<h3 align="left">Support:</h3><br><br>
 <p><a href="https://ko-fi.com/lakshithadev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lakshithadev" /></a></p><br><br>
                                                                                                                                
 
