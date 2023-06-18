@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakshithaonline?tab=repositories](https://github.com/lakshithaonline?tab=repositories)
 
-- 💬 Ask me about **Passionate and forward-thinking technologist with expertise in various technical stacks. Constantly upgrading skills to inspire and contribute.**
-
 - 📫 How to reach me **lakshithageethmal@gmail.com**
 
 
