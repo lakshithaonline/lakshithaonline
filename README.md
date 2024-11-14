@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif)](https://lakshithaonline.io)
 <h1 align="center">Hi 👋, I'm Lakshitha Geethmal</h1>
-<h3 align="center">Associate Software Engineer | Full Stack Developer | Technology Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Technology Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lakshithaonline&label=Profile%20views&color=0e75b6&style=flat" alt="lakshithaonline" />
