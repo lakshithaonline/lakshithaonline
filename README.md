@@ -19,8 +19,9 @@
 ---
 
 <h3 align="left">📚 Publications</h3>
-**Enhancing Waste Management Efficiency in Universities in Sri Lanka through IoT-Enabled Data Driven Smart Bin System**  
-  [ResearchGate Link](https://www.researchgate.net/publication/385553501_Enhancing_Waste_Management_Efficiency_in_Universities_in_Sri_Lanka_through_IoT-Enabled_Data_Driven_Smart_Bin_System?channel=doi&linkId=672a2bdf77b63d1220dcd981&showFulltext=true)
+<p><strong>Enhancing Waste Management Efficiency in Universities in Sri Lanka through IoT-Enabled Data Driven Smart Bin System</strong><br>
+<a href="https://www.researchgate.net/publication/385553501_Enhancing_Waste_Management_Efficiency_in_Universities_in_Sri_Lanka_through_IoT-Enabled_Data_Driven_Smart_Bin_System?channel=doi&linkId=672a2bdf77b63d1220dcd981&showFulltext=true" target="_blank">Read More on ResearchGate</a>
+</p>
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
