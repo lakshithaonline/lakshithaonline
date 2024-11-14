@@ -19,7 +19,8 @@
 ---
 
 <h3 align="left">📚 Publications</h3>
-- Coming soon! *(List any research or articles if available)*
+- **Enhancing Waste Management Efficiency in Universities in Sri Lanka through IoT-Enabled Data Driven Smart Bin System**  
+  [ResearchGate Link](https://www.researchgate.net/publication/385553501_Enhancing_Waste_Management_Efficiency_in_Universities_in_Sri_Lanka_through_IoT-Enabled_Data_Driven_Smart_Bin_System?channel=doi&linkId=672a2bdf77b63d1220dcd981&showFulltext=true)
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
@@ -46,9 +47,6 @@
 </p>
 
 <h3 align="left">📈 GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshithaonline&show_icons=true&locale=en&layout=compact" alt="lakshithaonline" />
-</p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshithaonline&show_icons=true&locale=en" alt="lakshithaonline" />
 </p>
