@@ -83,11 +83,10 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshithaonline&show_icons=true&locale=en" alt="lakshithaonline" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshithaonline&show_icons=true&locale=en&layout=compact" alt="lakshithaonline" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshithaonline&" alt="lakshithaonline" />
 </p>
-
 <h3 align="left">💖 Support:</h3>
 <p><a href="https://ko-fi.com/lakshithadev"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lakshithadev" /></a></p>
