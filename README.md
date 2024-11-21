@@ -8,7 +8,7 @@
 
 ---
 
-- 🌱 **Exploring New Skills In:** Data Mining, Warehousing, and Data Visualization.
+- 🌱 **Exploring New Skills In:** Machine Learning, Data Warehousing & Visualization, Vision-Based Learning
 
 - 👯 **Looking to Collaborate On:** Full-stack applications, machine learning integrations, and advanced data-driven projects.
 
@@ -19,7 +19,7 @@
 ---
 
 <h3 align="left">📚 Publications</h3>
-<p><strong>Enhancing Waste Management Efficiency in Universities in Sri Lanka through IoT-Enabled Data Driven Smart Bin System</strong><br>
+<p><strong>Enhancing Waste Management Efficiency in Universities in Sri Lanka through IoT-Enabled Data-Driven Smart Bin System</strong><br>
 <a href="https://www.researchgate.net/publication/385553501_Enhancing_Waste_Management_Efficiency_in_Universities_in_Sri_Lanka_through_IoT-Enabled_Data_Driven_Smart_Bin_System?channel=doi&linkId=672a2bdf77b63d1220dcd981&showFulltext=true" target="_blank">Read More on ResearchGate</a>
 </p>
 
